@@ -1,4 +1,4 @@
-**`Cursando Análise e Desenvolvimento de Sistemas`**
+**`Aberto a trabalho`**
 
 Me chamo Andrews Luiz de Araujo, tenho 20 anos, sou natural do Rio Grande do Norte, e atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFRN Natal Campus Central, visando futuramente me tornar um desenvolvedor Full Stack.
 
