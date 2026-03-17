@@ -72,7 +72,7 @@ Me chamo Andrews Luiz de Araujo, tenho 20 anos, sou natural do Rio Grande do Nor
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=andrews-luiz&show_icons=true&theme=tokyonight&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=Andrews-Luiz&show_icons=true&theme=tokyonight&include_all_commits=true"
 />
 </p>
 
